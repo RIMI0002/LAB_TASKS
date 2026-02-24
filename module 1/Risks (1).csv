@@ -1,0 +1,4 @@
+Risk_ID,Description,Impact (Low/Medium/High),Probability (Low/Medium/High),Mitigation Plan,Owner_Stakeholder_ID
+401,Server Downtime,High,Medium,Setup backup server,5
+402,Data Breach,High,High,Implement encryption,5
+403,Requirement Miscommunication,Medium,High,Weekly stakeholder meeting,4

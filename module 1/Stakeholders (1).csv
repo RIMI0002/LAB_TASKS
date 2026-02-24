@@ -1,0 +1,6 @@
+Stakeholder_ID,Name,Role,Influence (High/Low),Interest (High/Medium/Low),Contact,Department
+1,Ananya Sharma,Project Manager,High,High,ananya@email.com,Management
+2,Rohit Das,Backend Developer,Low,High,rohit@email.com,Engineering
+3,Priya Sen,QA Lead,High,Medium,priya@email.com,Quality
+4,Arjun Gupta,Business Analyst,Low,High,arjun@email.com,Business
+5,Meera Roy,IT Admin,High,Low,meera@email.com,IT

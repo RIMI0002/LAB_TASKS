@@ -1,0 +1,4 @@
+Decision_ID,Title,Status (Pending/Approved/Rejected),Date,Rationale,Stakeholder_ID
+301,Approve Online Booking,Approved,2025-02-17,Improves user experience,1
+302,Delay SMS Feature,Pending,2025-02-02,Budget constraints,4
+303,Implement Audit Trail,Approved,2025-01-09,Compliance requirement,3

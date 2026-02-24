@@ -1,0 +1,4 @@
+Candidate_ID,Title,Description,Source (Interview/Workshop/AI/Survey),Status (Triage/Approved/Rejected),Priority (High/Medium/Low),Linked_Meeting_ID
+201,Online Booking,Users can book appointments online,Interview,Approved,High,101
+202,SMS Reminder,Send reminder before appointment,AI,Triage,Medium,102
+203,Audit Trail,Track all system changes,Workshop,Approved,High,103

@@ -1,0 +1,4 @@
+Log_ID,Task,Tool Used (ChatGPT/Gemini/Copilot/etc.),Date,Verification Status (Verified/Not Verified/Partially Verified),Notes
+501,Generate Requirements,ChatGPT,2025-03-02,Verified,Used for drafting initial requirements
+502,Risk Analysis,Gemini,2025-01-05,Partially Verified,Cross-checked with team
+503,Test Case Generation,Copilot,2025-01-19,Not Verified,Needs review
